@@ -88,7 +88,7 @@ Pauta inicial para participação em Podcast.
 
 Título da apresentação: **Entendendo o que são e trabalhando com containers**
 
-Data: **04/02/2025 (terça-feira)**
+Data: **13/01/2026 (terça-feira)**
 
 Tipo do evento: **Online**
 
