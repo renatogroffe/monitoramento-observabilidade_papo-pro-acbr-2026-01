@@ -98,11 +98,11 @@ Tecnologias utilizadas: **Docker, Docker Compose, Linux, Kubernetes, Azure App S
 
 Número de participantes: **78 pessoas (pico de audiência ao longo da live)**
 
-Link do evento: [**Instagram**](https://www.instagram.com/p/DFn3rXnTF3X/)
+Link do evento: [**Instagram**](https://www.instagram.com/p/DTbD-VzjUjo/)
 
-Gravação da talk: [**Spotify**](https://open.spotify.com/episode/5OVA7T51jx8SPOBguUFUAS?si=01356a7c995643d3)
+Gravação da talk: [**Spotify - em breve**]()
 
-Deixo aqui meus agradecimentos ao amigo **Alexandre de Paula** pelo convite, ao **Diego Folieni** que foi o host do evento e às dezenas de membros da comunidade **Projeto ACBr** que acompanharam o evento durante uma manhã de terça-feira (04/02/2025).
+Deixo aqui meus agradecimentos ao meu amigo **Alexandre de Paula** pelo convite e às dezenas de membros da comunidade **Projeto ACBr** que acompanharam o evento durante uma manhã de terça-feira (13/01/2026).
 
 ---
 
