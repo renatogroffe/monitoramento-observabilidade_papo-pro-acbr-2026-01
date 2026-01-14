@@ -96,7 +96,7 @@ Ferramenta de transmissão: **Discord**
 
 Tecnologias utilizadas: **Docker, Docker Compose, Linux, Kubernetes, Azure App Service, Azure VMs, Azure Containers Instances, Azure Kubernets Service, Azure Container Apps, OpenTelemetry, Jaeger, Grafana, PostgreSQL, MySQL, .NET, ASP.NET Core, Java, Node.js, Python...**
 
-Número de participantes: **96 pessoas (pico de audiência ao longo da live)**
+Número de participantes: **78 pessoas (pico de audiência ao longo da live)**
 
 Link do evento: [**Instagram**](https://www.instagram.com/p/DFn3rXnTF3X/)
 
