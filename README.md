@@ -105,3 +105,5 @@ Deixo aqui meus agradecimentos ao amigo **Alexandre de Paula** pelo convite, ao 
 ---
 
 A seguir estão prints da apresentação.
+
+![Banner](img/banner.jpeg)
