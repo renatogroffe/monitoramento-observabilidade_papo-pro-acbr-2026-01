@@ -38,7 +38,7 @@ Pauta inicial para participação em Podcast.
 - **Grafana** - Visualização e dashboards
 - **Elasticsearch/ELK Stack** - Análise de logs
 - **Jaeger/Zipkin** - Distributed tracing
-- **Azure Monitor, Dynatrace, DataDog, New Relic, AWS CloudWatch** - Soluções comerciais
+- **Azure Monitor, Application Insights, Dynatrace, DataDog, New Relic, AWS CloudWatch** - Soluções comerciais
 
 ---
 
@@ -79,5 +79,5 @@ Pauta inicial para participação em Podcast.
 
 ## 📚 **Referências/Links Úteis**
 - [OpenTelemetry.io](https://opentelemetry.io)
-- [Grafana.com](https://grafana.com)
-- [Prometheus.io](https://prometheus.io)
+- [Grafana](https://grafana.com)
+- [Prometheus](https://prometheus.io)
