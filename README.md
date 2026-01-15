@@ -78,6 +78,35 @@ Pauta inicial para participação em Podcast.
 ---
 
 ### 📚 **Referências/Links Úteis**
-- [OpenTelemetry.io](https://opentelemetry.io)
-- [Grafana.com](https://grafana.com)
-- [Prometheus.io](https://prometheus.io)
+- [OpenTelemetry](https://opentelemetry.io)
+- [Grafana](https://grafana.com)
+- [Prometheus](https://prometheus.io)
+
+
+---
+
+## Informações sobre o evento
+
+Título da apresentação: **Entendendo o que são e trabalhando com containers**
+
+Data: **13/01/2026 (terça-feira)**
+
+Tipo do evento: **Online**
+
+Ferramenta de transmissão: **Discord**
+
+Tecnologias utilizadas: **Docker, Docker Compose, Linux, Kubernetes, Azure App Service, Azure VMs, Azure Containers Instances, Azure Kubernets Service, Azure Container Apps, OpenTelemetry, Jaeger, Grafana, PostgreSQL, MySQL, .NET, ASP.NET Core, Java, Node.js, Python...**
+
+Número de participantes: **78 pessoas (pico de audiência ao longo da live)**
+
+Link do evento: [**Instagram**](https://www.instagram.com/p/DTbD-VzjUjo/)
+
+Gravação da talk: [**Spotify - em breve**]()
+
+Deixo aqui meus agradecimentos ao meu amigo **Alexandre de Paula** pelo convite e às dezenas de membros da comunidade **Projeto ACBr** que acompanharam o evento durante uma manhã de terça-feira (13/01/2026).
+
+---
+
+A seguir estão prints da apresentação.
+
+![Banner](img/banner.jpeg)
