@@ -81,6 +81,7 @@ Conteúdos Gratuitos sobre Monitoramento/Observabilidade (Docker, Kubernetes, Op
 - [OpenTelemetry](https://opentelemetry.io)
 - [Grafana](https://grafana.com)
 - [Prometheus](https://prometheus.io)
+- [Conteúdos gratuitos da apresentação "Observabilidade Unificada com OpenTelemetry: tracing de aplicações distribuídas em .NET e outras stacks - TDC Summit São Paulo 2025"](https://github.com/renatogroffe/opentelemetry_tdc-sp-2025)
 
 ---
 
