@@ -82,7 +82,6 @@ Pauta inicial para participação em Podcast.
 - [Grafana](https://grafana.com)
 - [Prometheus](https://prometheus.io)
 
-
 ---
 
 ## Informações sobre o evento
@@ -99,6 +98,8 @@ Tecnologias utilizadas: **Monitoramento, Observabilidade, Logs, Métricas, Trace
 
 Número de participantes: **78 pessoas (pico de audiência ao longo da live)**
 
+Acesse este [**link**](/img/) para visualizar todas as fotos/prints da apresentação.
+
 Link do evento: [**Instagram**](https://www.instagram.com/p/DTbD-VzjUjo/)
 
 Gravação da talk: [**Spotify - em breve**]()
@@ -109,6 +110,10 @@ Deixo aqui meus agradecimentos ao meu amigo **Alexandre de Paula** pelo convite 
 
 A seguir estão prints da apresentação.
 
-![Banner](img/banner.jpeg)
+![Audiência](img/audiencia.png)
 
-![Audiência](img/banner.jpeg)
+![Renato palestrando 1](img/mon-obs-07.png)
+
+![Renato palestrando 2](img/mon-obs-03.png)
+
+![Banner](img/banner.jpeg)
