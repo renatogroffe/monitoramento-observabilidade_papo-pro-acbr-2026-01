@@ -95,7 +95,7 @@ Tipo do evento: **Online**
 
 Ferramenta de transmissão: **Discord**
 
-Tecnologias utilizadas: **Docker, Docker Compose, Linux, Kubernetes, Azure App Service, Azure VMs, Azure Containers Instances, Azure Kubernets Service, Azure Container Apps, OpenTelemetry, Jaeger, Grafana, PostgreSQL, MySQL, .NET, ASP.NET Core, Java, Node.js, Python...**
+Tecnologias utilizadas: **Monitoramento, Observabilidade, Logs, Métricas, Traces, Distributed Tracing, OpenTelemetry, Prometheus, Grafana, Grafana Loki, Grafana Tempo, Azure Monitor, Application Insights, Azure Log Analytics, Elastic APM, Dynatrace, DataDog, New Relic, AWS CloudWatch, Docker, Containers, Docker, Kubernetes, Linux, Windows, .NET, Delphi, Java, Node.js, Python...**
 
 Número de participantes: **78 pessoas (pico de audiência ao longo da live)**
 
