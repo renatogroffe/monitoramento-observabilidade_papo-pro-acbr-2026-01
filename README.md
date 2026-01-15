@@ -1,5 +1,5 @@
 # monitoramento-observabilidade_papo-pro-acbr-2026-01
-Pauta da participação no podcast Papo Pro ACBr + Informações sobre o evento online.
+Conteúdos Gratuitos sobre Monitoramento/Observabilidade (Docker, Kubernetes, OpenTelemetry, Grafana, Azure) + Pauta da participação no podcast Papo Pro ACBr + Informações sobre este evento online.
 
 ---
 
