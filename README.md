@@ -3,37 +3,37 @@ Pauta inicial para participação em Podcast.
 
 ---
 
-# Pauta para Podcast: Monitoramento e Observabilidade de Aplicações - Papo Pro ACBr
+## Pauta para Podcast: Monitoramento e Observabilidade de Aplicações - Papo Pro ACBr
 
-## 📌 **Introdução**
+### 📌 **Introdução**
 - Apresentação do tema e relevância no contexto atual
 - Diferença entre Monitoramento e Observabilidade
 - Por que isso é crítico para aplicações modernas
 
 ---
 
-## 🎯 **Segmento 1: Conceitos Fundamentais**
+### 🎯 **Segmento 1: Conceitos Fundamentais**
 
-### Monitoramento vs Observabilidade
+#### Monitoramento vs Observabilidade
 - Monitoramento: Métricas predefinidas
 - Observabilidade: Compreensão completa do sistema
 - Por que ambos são necessários
 
-### Os Três Pilares da Observabilidade
+#### Os Três Pilares da Observabilidade
 1. **Logs** - Registros detalhados de eventos
 2. **Métricas** - Dados quantitativos de desempenho
 3. **Distributed Tracing** - Rastreamento de requisições entre serviços
 
 ---
 
-## 🛠️ **Segmento 2: Ferramentas e Tecnologias**
+### 🛠️ **Segmento 2: Ferramentas e Tecnologias**
 
-### OpenTelemetry
+#### OpenTelemetry
 - Padrão aberto para instrumentação
 - Agnóstico de fornecedor
 - Importância para portabilidade
 
-### Stack Moderno de Observabilidade
+#### Stack Moderno de Observabilidade
 - **Prometheus** - Coleta de métricas
 - **Grafana** - Visualização e dashboards
 - **Elasticsearch/ELK Stack** - Análise de logs
@@ -42,15 +42,15 @@ Pauta inicial para participação em Podcast.
 
 ---
 
-## 💡 **Segmento 3: Boas Práticas**
+### 💡 **Segmento 3: Boas Práticas**
 
-### Implementação Efetiva
+#### Implementação Efetiva
 - Estruturação de logs adequada
 - Definição de métricas relevantes
 - Alertas bem configurados (evitar ruído)
 - SLOs e SLIs
 
-### Desafios Comuns
+#### Desafios Comuns
 - Custo de armazenamento
 - Volume de dados
 - Correlação de informações
@@ -58,7 +58,7 @@ Pauta inicial para participação em Podcast.
 
 ---
 
-## 🌐 **Segmento 4: Casos de Uso e Exemplos Práticos**
+### 🌐 **Segmento 4: Casos de Uso e Exemplos Práticos**
 
 - Monitoramento de microserviços
 - Detecção de anomalias
@@ -68,7 +68,7 @@ Pauta inicial para participação em Podcast.
 
 ---
 
-## 🎤 **Encerramento**
+### 🎤 **Encerramento**
 
 - Resumo dos pontos principais
 - Recomendação de primeiros passos
@@ -77,7 +77,7 @@ Pauta inicial para participação em Podcast.
 
 ---
 
-## 📚 **Referências/Links Úteis**
+### 📚 **Referências/Links Úteis**
 - [OpenTelemetry.io](https://opentelemetry.io)
-- [Grafana](https://grafana.com)
-- [Prometheus](https://prometheus.io)
+- [Grafana.com](https://grafana.com)
+- [Prometheus.io](https://prometheus.io)
