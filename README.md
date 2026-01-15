@@ -36,8 +36,8 @@ Pauta inicial para participação em Podcast.
 #### Stack Moderno de Observabilidade
 - **Prometheus** - Coleta de métricas
 - **Grafana** - Visualização e dashboards
-- **Elasticsearch/ELK Stack** - Análise de logs
-- **Jaeger/Zipkin** - Distributed tracing
+- **Grafana Loki, Azure Log Analytics, Elasticsearch/ELK Stack** - Análise de logs
+- **Grafana Tempo, Jaeger, Zipkin, Elastic APM** - Distributed tracing
 - **Azure Monitor, Application Insights, Dynatrace, DataDog, New Relic, AWS CloudWatch** - Soluções comerciais
 
 ---
