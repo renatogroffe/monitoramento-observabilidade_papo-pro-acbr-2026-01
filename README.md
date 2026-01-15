@@ -87,7 +87,7 @@ Pauta inicial para participação em Podcast.
 
 ## Informações sobre o evento
 
-Título da apresentação: **Entendendo o que são e trabalhando com containers**
+Título da apresentação: **Monitoramento e Observabilidade de Aplicações**
 
 Data: **13/01/2026 (terça-feira)**
 
