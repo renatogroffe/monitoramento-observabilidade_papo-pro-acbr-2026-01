@@ -1,5 +1,5 @@
 # monitoramento-observabilidade_papo-pro-acbr-2026-01
-Pauta inicial para participação em Podcast.
+Pauta da participação no podcast Papo Pro ACBr + Informações sobre o evento online.
 
 ---
 
