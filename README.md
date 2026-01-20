@@ -103,7 +103,7 @@ Acesse este [**link**](/img/) para visualizar todas as fotos/prints da apresenta
 
 Link do evento: [**Instagram**](https://www.instagram.com/p/DTbD-VzjUjo/)
 
-Gravação da talk: [**Spotify - em breve**]()
+Gravação da talk: [**Spotify**](https://open.spotify.com/episode/3Ds5bE27P57m3wUvIOslXf)
 
 Deixo aqui meus agradecimentos ao meu amigo **Alexandre de Paula** pelo convite e às dezenas de membros da comunidade **Projeto ACBr** que acompanharam o evento durante uma manhã de terça-feira (13/01/2026).
 
