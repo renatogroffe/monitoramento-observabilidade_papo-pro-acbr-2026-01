@@ -15,6 +15,11 @@ Episódio no **Spotify** (assista gratuitamente): https://open.spotify.com/episo
 - [Conteúdos gratuitos da apresentação "OpenTelemetry + Grafana: observabilidade, monitoramento, novidades com Grafana Alloy... - DevOps Experience 2025-05"](https://github.com/renatogroffe/opentelemetry-grafana_devops-experience-2025-05)
 - [Playlist com vídeos sobre o uso do Grafana com várias tecnologias - YouTube - Canal .NET](https://www.youtube.com/playlist?list=PL1FNyHZz1VQGvQYEPt1auW9xv790Kloi2)
 - [Mais de 40 repositórios no GitHub com conteúdo sobre o uso do Grafana com tecnologias como .NET/C#, Java, Node.js, Python, Kubernetes e serviços do Microsoft Azure](https://github.com/renatogroffe?tab=repositories&q=grafana&type=&language=&sort=)
+- [Por que utilizar o Grafana no monitoramento de recursos do Azure? - Artigo - AzureBrasil cloud](https://www.azurebrasil.cloud/blog/grafana-monitoramento-azure/)
+
+Nestes materiais você poderá encontrar uma visão geral sobre o uso da stack Grafana com varias tecnologias:
+
+![Ecossistema Grafana + OpenTelemetry + Prometheus](docs/grafana-stack-background.png)
 
 ---
 
