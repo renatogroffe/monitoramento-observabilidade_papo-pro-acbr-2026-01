@@ -1,6 +1,20 @@
 # monitoramento-observabilidade_papo-pro-acbr-2026-01
 Conteúdos Gratuitos sobre Monitoramento/Observabilidade (Docker, Kubernetes, OpenTelemetry, Grafana, Azure) + Pauta da participação no podcast Papo Pro ACBr + Informações sobre este evento online.
 
+Episódio no **Spotify** (assista gratuitamente): https://open.spotify.com/episode/3Ds5bE27P57m3wUvIOslXf
+
+---
+
+### 📚 **Referências/Links Úteis**
+- [OpenTelemetry](https://opentelemetry.io)
+- [OpenTelemetry + .NET](https://learn.microsoft.com/en-us/dotnet/core/diagnostics/observability-with-otel)
+- [Grafana](https://grafana.com)
+- [Grafana Alloy](https://grafana.com/docs/alloy/latest/)
+- [Prometheus](https://prometheus.io)
+- [Conteúdos gratuitos da apresentação "Observabilidade Unificada com OpenTelemetry: tracing de aplicações distribuídas em .NET e outras stacks - TDC Summit São Paulo 2025"](https://github.com/renatogroffe/opentelemetry_tdc-sp-2025)
+- [Conteúdos gratuitos da apresentação "OpenTelemetry + Grafana: observabilidade, monitoramento, novidades com Grafana Alloy... - DevOps Experience 2025-05"](https://github.com/renatogroffe/opentelemetry-grafana_devops-experience-2025-05)
+- [Playlist com vídeos sobre o uso do Grafana com várias tecnologias - YouTube - Canal .NET](https://www.youtube.com/playlist?list=PL1FNyHZz1VQGvQYEPt1auW9xv790Kloi2)
+
 ---
 
 ## Pauta para Podcast: Monitoramento e Observabilidade de Aplicações - Papo Pro ACBr
@@ -74,14 +88,6 @@ Conteúdos Gratuitos sobre Monitoramento/Observabilidade (Docker, Kubernetes, Op
 - Recomendação de primeiros passos
 - Recursos e documentação úteis
 - Call-to-action para feedback dos ouvintes
-
----
-
-### 📚 **Referências/Links Úteis**
-- [OpenTelemetry](https://opentelemetry.io)
-- [Grafana](https://grafana.com)
-- [Prometheus](https://prometheus.io)
-- [Conteúdos gratuitos da apresentação "Observabilidade Unificada com OpenTelemetry: tracing de aplicações distribuídas em .NET e outras stacks - TDC Summit São Paulo 2025"](https://github.com/renatogroffe/opentelemetry_tdc-sp-2025)
 
 ---
 
