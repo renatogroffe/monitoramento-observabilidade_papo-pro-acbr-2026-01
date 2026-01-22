@@ -19,7 +19,7 @@ Episódio no **Spotify** (assista gratuitamente): https://open.spotify.com/episo
 
 Nestes materiais você poderá encontrar uma visão geral sobre o uso da stack Grafana com varias tecnologias:
 
-![Ecossistema Grafana + OpenTelemetry + Prometheus](docs/grafana-stack-background.png)
+![Ecossistema Grafana + OpenTelemetry + Prometheus](img/grafana-stack-background.png)
 
 ---
 
